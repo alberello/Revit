@@ -2,7 +2,12 @@
 
 muro esterno(37):
 intonaco(2)-isolamento(8)-calcestruzzo(NUCLEO)(25)-INTONACO(2)             finitura1(interni)  finitura2(esterni)
-muri esterni(12):
+muri interni(12):
 intonaco(2)-calcestruzzo(8)-intonaco(2)
 
 aperture principali verso l'esterno
+
+
+uffici 15m2
+altre stanze 30m2
+bagni 6m2
